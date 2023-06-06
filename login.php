@@ -66,4 +66,14 @@ class User
         return password_verify($password, $row['password']);
     }
 
+if (false === $statement) {
+            throw new Exception('Invalid if (false === $statement) {
+            throw new Exception('Invalid tion(implode(' ', $statement->errorInfo()));
+        }
+tion(implode(' ', $statement->errorInfo()));
+        }
+tion(implode(' ', $statement->errorInfo()));
+        }
+tion(implode(' ', $statement->errorInfo()));
+        }
 }
